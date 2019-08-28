@@ -1,9 +1,9 @@
 # Nicholas Dullam's First CS193 Homework
 
 ### Favorite Things About CS193
--Spending Time Exploring Unix
--Navigating Varied Text Editors
--Exploring Integral Programming Knowledge :D
+- Spending Time Exploring Unix
+- Navigating Varied Text Editors
+- Exploring Integral Programming Knowledge :D
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
